@@ -1,0 +1,126 @@
+C:\Users\Loki\Downloads\mesita-master\OpenGLGameCS\bin\Debug\netcoreapp3.1\Juego.exe
+C:\Users\Loki\Downloads\mesita-master\OpenGLGameCS\bin\Debug\netcoreapp3.1\Juego.deps.json
+C:\Users\Loki\Downloads\mesita-master\OpenGLGameCS\bin\Debug\netcoreapp3.1\Juego.runtimeconfig.json
+C:\Users\Loki\Downloads\mesita-master\OpenGLGameCS\bin\Debug\netcoreapp3.1\Juego.runtimeconfig.dev.json
+C:\Users\Loki\Downloads\mesita-master\OpenGLGameCS\bin\Debug\netcoreapp3.1\Juego.dll
+C:\Users\Loki\Downloads\mesita-master\OpenGLGameCS\bin\Debug\netcoreapp3.1\Juego.pdb
+C:\Users\Loki\Downloads\mesita-master\OpenGLGameCS\bin\Debug\netcoreapp3.1\OpenTK.Compute.dll
+C:\Users\Loki\Downloads\mesita-master\OpenGLGameCS\bin\Debug\netcoreapp3.1\OpenTK.Core.dll
+C:\Users\Loki\Downloads\mesita-master\OpenGLGameCS\bin\Debug\netcoreapp3.1\OpenTK.Graphics.dll
+C:\Users\Loki\Downloads\mesita-master\OpenGLGameCS\bin\Debug\netcoreapp3.1\OpenTK.Input.dll
+C:\Users\Loki\Downloads\mesita-master\OpenGLGameCS\bin\Debug\netcoreapp3.1\OpenTK.Mathematics.dll
+C:\Users\Loki\Downloads\mesita-master\OpenGLGameCS\bin\Debug\netcoreapp3.1\OpenTK.OpenAL.dll
+C:\Users\Loki\Downloads\mesita-master\OpenGLGameCS\bin\Debug\netcoreapp3.1\OpenTK.Windowing.Common.dll
+C:\Users\Loki\Downloads\mesita-master\OpenGLGameCS\bin\Debug\netcoreapp3.1\OpenTK.Windowing.Desktop.dll
+C:\Users\Loki\Downloads\mesita-master\OpenGLGameCS\bin\Debug\netcoreapp3.1\OpenTK.Windowing.GraphicsLibraryFramework.dll
+C:\Users\Loki\Downloads\mesita-master\OpenGLGameCS\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libglfw.so.3.3
+C:\Users\Loki\Downloads\mesita-master\OpenGLGameCS\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libglfw.3.dylib
+C:\Users\Loki\Downloads\mesita-master\OpenGLGameCS\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\glfw3.dll
+C:\Users\Loki\Downloads\mesita-master\OpenGLGameCS\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\glfw3.dll
+C:\Users\Loki\Downloads\mesita-master\OpenGLGameCS\obj\Debug\netcoreapp3.1\Juego.csprojAssemblyReference.cache
+C:\Users\Loki\Downloads\mesita-master\OpenGLGameCS\obj\Debug\netcoreapp3.1\Juego.AssemblyInfoInputs.cache
+C:\Users\Loki\Downloads\mesita-master\OpenGLGameCS\obj\Debug\netcoreapp3.1\Juego.AssemblyInfo.cs
+C:\Users\Loki\Downloads\mesita-master\OpenGLGameCS\obj\Debug\netcoreapp3.1\Juego.csproj.CoreCompileInputs.cache
+C:\Users\Loki\Downloads\mesita-master\OpenGLGameCS\obj\Debug\netcoreapp3.1\Juego.csproj.CopyComplete
+C:\Users\Loki\Downloads\mesita-master\OpenGLGameCS\obj\Debug\netcoreapp3.1\Juego.dll
+C:\Users\Loki\Downloads\mesita-master\OpenGLGameCS\obj\Debug\netcoreapp3.1\Juego.pdb
+C:\Users\Loki\Downloads\mesita-master\OpenGLGameCS\obj\Debug\netcoreapp3.1\Juego.genruntimeconfig.cache
+C:\Users\Loki\Downloads\mesita-master\OpenGLGameCS\bin\Debug\netcoreapp3.1\SixLabors.ImageSharp.dll
+C:\Users\Loki\Downloads\mesita-master\Juego\bin\Debug\netcoreapp3.1\Juego.exe
+C:\Users\Loki\Downloads\mesita-master\Juego\bin\Debug\netcoreapp3.1\Juego.deps.json
+C:\Users\Loki\Downloads\mesita-master\Juego\bin\Debug\netcoreapp3.1\Juego.runtimeconfig.json
+C:\Users\Loki\Downloads\mesita-master\Juego\bin\Debug\netcoreapp3.1\Juego.runtimeconfig.dev.json
+C:\Users\Loki\Downloads\mesita-master\Juego\bin\Debug\netcoreapp3.1\Juego.dll
+C:\Users\Loki\Downloads\mesita-master\Juego\bin\Debug\netcoreapp3.1\Juego.pdb
+C:\Users\Loki\Downloads\mesita-master\Juego\bin\Debug\netcoreapp3.1\OpenTK.Compute.dll
+C:\Users\Loki\Downloads\mesita-master\Juego\bin\Debug\netcoreapp3.1\OpenTK.Core.dll
+C:\Users\Loki\Downloads\mesita-master\Juego\bin\Debug\netcoreapp3.1\OpenTK.Graphics.dll
+C:\Users\Loki\Downloads\mesita-master\Juego\bin\Debug\netcoreapp3.1\OpenTK.Input.dll
+C:\Users\Loki\Downloads\mesita-master\Juego\bin\Debug\netcoreapp3.1\OpenTK.Mathematics.dll
+C:\Users\Loki\Downloads\mesita-master\Juego\bin\Debug\netcoreapp3.1\OpenTK.OpenAL.dll
+C:\Users\Loki\Downloads\mesita-master\Juego\bin\Debug\netcoreapp3.1\OpenTK.Windowing.Common.dll
+C:\Users\Loki\Downloads\mesita-master\Juego\bin\Debug\netcoreapp3.1\OpenTK.Windowing.Desktop.dll
+C:\Users\Loki\Downloads\mesita-master\Juego\bin\Debug\netcoreapp3.1\OpenTK.Windowing.GraphicsLibraryFramework.dll
+C:\Users\Loki\Downloads\mesita-master\Juego\bin\Debug\netcoreapp3.1\SixLabors.ImageSharp.dll
+C:\Users\Loki\Downloads\mesita-master\Juego\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libglfw.so.3.3
+C:\Users\Loki\Downloads\mesita-master\Juego\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libglfw.3.dylib
+C:\Users\Loki\Downloads\mesita-master\Juego\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\glfw3.dll
+C:\Users\Loki\Downloads\mesita-master\Juego\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\glfw3.dll
+C:\Users\Loki\Downloads\mesita-master\Juego\obj\Debug\netcoreapp3.1\Juego.csprojAssemblyReference.cache
+C:\Users\Loki\Downloads\mesita-master\Juego\obj\Debug\netcoreapp3.1\Juego.AssemblyInfoInputs.cache
+C:\Users\Loki\Downloads\mesita-master\Juego\obj\Debug\netcoreapp3.1\Juego.AssemblyInfo.cs
+C:\Users\Loki\Downloads\mesita-master\Juego\obj\Debug\netcoreapp3.1\Juego.csproj.CoreCompileInputs.cache
+C:\Users\Loki\Downloads\mesita-master\Juego\obj\Debug\netcoreapp3.1\Juego.csproj.CopyComplete
+C:\Users\Loki\Downloads\mesita-master\Juego\obj\Debug\netcoreapp3.1\Juego.dll
+C:\Users\Loki\Downloads\mesita-master\Juego\obj\Debug\netcoreapp3.1\Juego.pdb
+C:\Users\Loki\Downloads\mesita-master\Juego\obj\Debug\netcoreapp3.1\Juego.genruntimeconfig.cache
+C:\Users\Loki\Downloads\Juego\Juego\bin\Debug\netcoreapp3.1\Juego.exe
+C:\Users\Loki\Downloads\Juego\Juego\bin\Debug\netcoreapp3.1\Juego.deps.json
+C:\Users\Loki\Downloads\Juego\Juego\bin\Debug\netcoreapp3.1\Juego.runtimeconfig.json
+C:\Users\Loki\Downloads\Juego\Juego\bin\Debug\netcoreapp3.1\Juego.runtimeconfig.dev.json
+C:\Users\Loki\Downloads\Juego\Juego\bin\Debug\netcoreapp3.1\Juego.dll
+C:\Users\Loki\Downloads\Juego\Juego\bin\Debug\netcoreapp3.1\Juego.pdb
+C:\Users\Loki\Downloads\Juego\Juego\bin\Debug\netcoreapp3.1\OpenTK.Compute.dll
+C:\Users\Loki\Downloads\Juego\Juego\bin\Debug\netcoreapp3.1\OpenTK.Core.dll
+C:\Users\Loki\Downloads\Juego\Juego\bin\Debug\netcoreapp3.1\OpenTK.Graphics.dll
+C:\Users\Loki\Downloads\Juego\Juego\bin\Debug\netcoreapp3.1\OpenTK.Input.dll
+C:\Users\Loki\Downloads\Juego\Juego\bin\Debug\netcoreapp3.1\OpenTK.Mathematics.dll
+C:\Users\Loki\Downloads\Juego\Juego\bin\Debug\netcoreapp3.1\OpenTK.OpenAL.dll
+C:\Users\Loki\Downloads\Juego\Juego\bin\Debug\netcoreapp3.1\OpenTK.Windowing.Common.dll
+C:\Users\Loki\Downloads\Juego\Juego\bin\Debug\netcoreapp3.1\OpenTK.Windowing.Desktop.dll
+C:\Users\Loki\Downloads\Juego\Juego\bin\Debug\netcoreapp3.1\OpenTK.Windowing.GraphicsLibraryFramework.dll
+C:\Users\Loki\Downloads\Juego\Juego\bin\Debug\netcoreapp3.1\SixLabors.ImageSharp.dll
+C:\Users\Loki\Downloads\Juego\Juego\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libglfw.so.3.3
+C:\Users\Loki\Downloads\Juego\Juego\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libglfw.3.dylib
+C:\Users\Loki\Downloads\Juego\Juego\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\glfw3.dll
+C:\Users\Loki\Downloads\Juego\Juego\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\glfw3.dll
+C:\Users\Loki\Downloads\Juego\Juego\obj\Debug\netcoreapp3.1\Juego.csprojAssemblyReference.cache
+C:\Users\Loki\Downloads\Juego\Juego\obj\Debug\netcoreapp3.1\Juego.AssemblyInfoInputs.cache
+C:\Users\Loki\Downloads\Juego\Juego\obj\Debug\netcoreapp3.1\Juego.AssemblyInfo.cs
+C:\Users\Loki\Downloads\Juego\Juego\obj\Debug\netcoreapp3.1\Juego.csproj.CoreCompileInputs.cache
+C:\Users\Loki\Downloads\Juego\Juego\obj\Debug\netcoreapp3.1\Juego.csproj.CopyComplete
+C:\Users\Loki\Downloads\Juego\Juego\obj\Debug\netcoreapp3.1\Juego.dll
+C:\Users\Loki\Downloads\Juego\Juego\obj\Debug\netcoreapp3.1\Juego.pdb
+C:\Users\Loki\Downloads\Juego\Juego\obj\Debug\netcoreapp3.1\Juego.genruntimeconfig.cache
+C:\Users\Loki\Downloads\Juego\Juego\obj\Debug\netcoreapp3.1\Juego.Properties.Resources.resources
+C:\Users\Loki\Downloads\Juego\Juego\obj\Debug\netcoreapp3.1\Juego.csproj.GenerateResource.cache
+C:\Users\Loki\Downloads\Juego\Juego\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Loki\Downloads\Juego\Juego\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Loki\Downloads\Juego\Juego\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Loki\Downloads\Juego\Juego\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Loki\Downloads\Juego\Juego\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\Documents\Materias de semestre 1-2021\Programación Gráfica\Ayudantias\escenario\Juego\bin\Debug\netcoreapp3.1\Juego.exe
+C:\Users\User\Documents\Materias de semestre 1-2021\Programación Gráfica\Ayudantias\escenario\Juego\bin\Debug\netcoreapp3.1\Juego.deps.json
+C:\Users\User\Documents\Materias de semestre 1-2021\Programación Gráfica\Ayudantias\escenario\Juego\bin\Debug\netcoreapp3.1\Juego.runtimeconfig.json
+C:\Users\User\Documents\Materias de semestre 1-2021\Programación Gráfica\Ayudantias\escenario\Juego\bin\Debug\netcoreapp3.1\Juego.runtimeconfig.dev.json
+C:\Users\User\Documents\Materias de semestre 1-2021\Programación Gráfica\Ayudantias\escenario\Juego\bin\Debug\netcoreapp3.1\Juego.dll
+C:\Users\User\Documents\Materias de semestre 1-2021\Programación Gráfica\Ayudantias\escenario\Juego\bin\Debug\netcoreapp3.1\Juego.pdb
+C:\Users\User\Documents\Materias de semestre 1-2021\Programación Gráfica\Ayudantias\escenario\Juego\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Documents\Materias de semestre 1-2021\Programación Gráfica\Ayudantias\escenario\Juego\bin\Debug\netcoreapp3.1\OpenTK.Compute.dll
+C:\Users\User\Documents\Materias de semestre 1-2021\Programación Gráfica\Ayudantias\escenario\Juego\bin\Debug\netcoreapp3.1\OpenTK.Core.dll
+C:\Users\User\Documents\Materias de semestre 1-2021\Programación Gráfica\Ayudantias\escenario\Juego\bin\Debug\netcoreapp3.1\OpenTK.Graphics.dll
+C:\Users\User\Documents\Materias de semestre 1-2021\Programación Gráfica\Ayudantias\escenario\Juego\bin\Debug\netcoreapp3.1\OpenTK.Input.dll
+C:\Users\User\Documents\Materias de semestre 1-2021\Programación Gráfica\Ayudantias\escenario\Juego\bin\Debug\netcoreapp3.1\OpenTK.Mathematics.dll
+C:\Users\User\Documents\Materias de semestre 1-2021\Programación Gráfica\Ayudantias\escenario\Juego\bin\Debug\netcoreapp3.1\OpenTK.OpenAL.dll
+C:\Users\User\Documents\Materias de semestre 1-2021\Programación Gráfica\Ayudantias\escenario\Juego\bin\Debug\netcoreapp3.1\OpenTK.Windowing.Common.dll
+C:\Users\User\Documents\Materias de semestre 1-2021\Programación Gráfica\Ayudantias\escenario\Juego\bin\Debug\netcoreapp3.1\OpenTK.Windowing.Desktop.dll
+C:\Users\User\Documents\Materias de semestre 1-2021\Programación Gráfica\Ayudantias\escenario\Juego\bin\Debug\netcoreapp3.1\OpenTK.Windowing.GraphicsLibraryFramework.dll
+C:\Users\User\Documents\Materias de semestre 1-2021\Programación Gráfica\Ayudantias\escenario\Juego\bin\Debug\netcoreapp3.1\SixLabors.ImageSharp.dll
+C:\Users\User\Documents\Materias de semestre 1-2021\Programación Gráfica\Ayudantias\escenario\Juego\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\User\Documents\Materias de semestre 1-2021\Programación Gráfica\Ayudantias\escenario\Juego\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Documents\Materias de semestre 1-2021\Programación Gráfica\Ayudantias\escenario\Juego\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libglfw.so.3.3
+C:\Users\User\Documents\Materias de semestre 1-2021\Programación Gráfica\Ayudantias\escenario\Juego\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libglfw.3.dylib
+C:\Users\User\Documents\Materias de semestre 1-2021\Programación Gráfica\Ayudantias\escenario\Juego\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\glfw3.dll
+C:\Users\User\Documents\Materias de semestre 1-2021\Programación Gráfica\Ayudantias\escenario\Juego\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\glfw3.dll
+C:\Users\User\Documents\Materias de semestre 1-2021\Programación Gráfica\Ayudantias\escenario\Juego\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\Documents\Materias de semestre 1-2021\Programación Gráfica\Ayudantias\escenario\Juego\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\Documents\Materias de semestre 1-2021\Programación Gráfica\Ayudantias\escenario\Juego\obj\Debug\netcoreapp3.1\Juego.csprojAssemblyReference.cache
+C:\Users\User\Documents\Materias de semestre 1-2021\Programación Gráfica\Ayudantias\escenario\Juego\obj\Debug\netcoreapp3.1\Juego.Properties.Resources.resources
+C:\Users\User\Documents\Materias de semestre 1-2021\Programación Gráfica\Ayudantias\escenario\Juego\obj\Debug\netcoreapp3.1\Juego.csproj.GenerateResource.cache
+C:\Users\User\Documents\Materias de semestre 1-2021\Programación Gráfica\Ayudantias\escenario\Juego\obj\Debug\netcoreapp3.1\Juego.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Materias de semestre 1-2021\Programación Gráfica\Ayudantias\escenario\Juego\obj\Debug\netcoreapp3.1\Juego.AssemblyInfo.cs
+C:\Users\User\Documents\Materias de semestre 1-2021\Programación Gráfica\Ayudantias\escenario\Juego\obj\Debug\netcoreapp3.1\Juego.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Materias de semestre 1-2021\Programación Gráfica\Ayudantias\escenario\Juego\obj\Debug\netcoreapp3.1\Juego.csproj.CopyComplete
+C:\Users\User\Documents\Materias de semestre 1-2021\Programación Gráfica\Ayudantias\escenario\Juego\obj\Debug\netcoreapp3.1\Juego.dll
+C:\Users\User\Documents\Materias de semestre 1-2021\Programación Gráfica\Ayudantias\escenario\Juego\obj\Debug\netcoreapp3.1\Juego.pdb
+C:\Users\User\Documents\Materias de semestre 1-2021\Programación Gráfica\Ayudantias\escenario\Juego\obj\Debug\netcoreapp3.1\Juego.genruntimeconfig.cache
